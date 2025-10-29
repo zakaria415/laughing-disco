@@ -1,0 +1,6 @@
+streamlit
+nltk
+pandas
+requests
+# مكتبات إضافية قد تحتاجها بناءً على ملفات المشروع
+pydantic
